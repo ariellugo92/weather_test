@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, duplicate env.example and renema as a .env.local and insert the correct data
+
+latter, run the development server:
 
 ```bash
 npm run dev
